@@ -44,3 +44,9 @@ Seguir los siguientes pasos:
 Pixel 7
 Responsive
  ```
+
+
+# Bibliografia
+```bash
+https://www.w3schools.com/css/
+```
